@@ -1,0 +1,15 @@
+{
+  "name": "trabajanoconnpm",
+  "version": "1.0.0",
+  "description": "Trabajando con NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cinthya Mendez",
+  "license": "ISC",
+  "dependencies": {
+    "colors.js": "^1.2.4",
+    "express": "^4.17.2"
+  }
+} 
